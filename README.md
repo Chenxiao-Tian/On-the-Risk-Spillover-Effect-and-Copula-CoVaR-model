@@ -5,4 +5,3 @@
 
 ● Collaborated the theory with some classical models and methods in finance and economic like Copula function and the CoVaR method from Copula-CoVaR framework , it reveals Chinese crude oil market's impact.
 
-●The Project DOI:10.3233/JIFS-179837
